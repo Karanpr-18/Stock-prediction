@@ -73,6 +73,8 @@ Model Accuracy % : 99.48%
 📈 The script also shows a line chart comparing actual vs. predicted prices.
 
 ---
+<img width="1665" height="547" alt="image" src="https://github.com/user-attachments/assets/bdef2dee-f985-493d-bffb-13b77ac5a0f3" />
+
 
 ## 📌 What You’ll Learn
 
@@ -106,7 +108,7 @@ Or install manually as shown earlier.
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Karanpr-18**  
 [GitHub](https://github.com/Karanpr-18)
 ---
 
